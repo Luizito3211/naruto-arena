@@ -1,0 +1,3542 @@
+{
+  "character": "naruto",
+  "source": "assets/raw/naruto.png",
+  "rows": [
+    {
+      "row": 0,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_00/frame_01.png",
+          "size": [
+            45,
+            75
+          ],
+          "anchor": [
+            22,
+            75
+          ],
+          "source_bbox": [
+            2,
+            2,
+            90,
+            90
+          ],
+          "trim_offset": [
+            30,
+            15
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_00/frame_02.png",
+          "size": [
+            45,
+            75
+          ],
+          "anchor": [
+            22,
+            75
+          ],
+          "source_bbox": [
+            92,
+            2,
+            180,
+            90
+          ],
+          "trim_offset": [
+            120,
+            15
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_00/frame_03.png",
+          "size": [
+            45,
+            75
+          ],
+          "anchor": [
+            22,
+            75
+          ],
+          "source_bbox": [
+            182,
+            2,
+            270,
+            90
+          ],
+          "trim_offset": [
+            210,
+            15
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_00/frame_04.png",
+          "size": [
+            45,
+            75
+          ],
+          "anchor": [
+            22,
+            75
+          ],
+          "source_bbox": [
+            272,
+            2,
+            360,
+            90
+          ],
+          "trim_offset": [
+            300,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_01/frame_01.png",
+          "size": [
+            45,
+            75
+          ],
+          "anchor": [
+            22,
+            75
+          ],
+          "source_bbox": [
+            2,
+            92,
+            90,
+            180
+          ],
+          "trim_offset": [
+            30,
+            105
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_01/frame_02.png",
+          "size": [
+            35,
+            74
+          ],
+          "anchor": [
+            17,
+            74
+          ],
+          "source_bbox": [
+            92,
+            92,
+            180,
+            180
+          ],
+          "trim_offset": [
+            122,
+            106
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_01/frame_03.png",
+          "size": [
+            36,
+            74
+          ],
+          "anchor": [
+            18,
+            74
+          ],
+          "source_bbox": [
+            182,
+            92,
+            270,
+            180
+          ],
+          "trim_offset": [
+            212,
+            106
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_01/frame_04.png",
+          "size": [
+            36,
+            74
+          ],
+          "anchor": [
+            18,
+            74
+          ],
+          "source_bbox": [
+            272,
+            92,
+            360,
+            180
+          ],
+          "trim_offset": [
+            302,
+            106
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_01/frame_05.png",
+          "size": [
+            39,
+            75
+          ],
+          "anchor": [
+            19,
+            75
+          ],
+          "source_bbox": [
+            362,
+            92,
+            450,
+            180
+          ],
+          "trim_offset": [
+            390,
+            105
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_01/frame_06.png",
+          "size": [
+            46,
+            68
+          ],
+          "anchor": [
+            23,
+            68
+          ],
+          "source_bbox": [
+            452,
+            92,
+            540,
+            180
+          ],
+          "trim_offset": [
+            477,
+            111
+          ]
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_02/frame_01.png",
+          "size": [
+            60,
+            62
+          ],
+          "anchor": [
+            30,
+            62
+          ],
+          "source_bbox": [
+            2,
+            182,
+            90,
+            270
+          ],
+          "trim_offset": [
+            19,
+            208
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_02/frame_02.png",
+          "size": [
+            61,
+            64
+          ],
+          "anchor": [
+            30,
+            64
+          ],
+          "source_bbox": [
+            92,
+            182,
+            180,
+            270
+          ],
+          "trim_offset": [
+            108,
+            206
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_02/frame_03.png",
+          "size": [
+            62,
+            65
+          ],
+          "anchor": [
+            31,
+            65
+          ],
+          "source_bbox": [
+            182,
+            182,
+            270,
+            270
+          ],
+          "trim_offset": [
+            198,
+            205
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_02/frame_04.png",
+          "size": [
+            63,
+            61
+          ],
+          "anchor": [
+            31,
+            61
+          ],
+          "source_bbox": [
+            272,
+            182,
+            360,
+            270
+          ],
+          "trim_offset": [
+            288,
+            209
+          ]
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_03/frame_01.png",
+          "size": [
+            53,
+            49
+          ],
+          "anchor": [
+            26,
+            49
+          ],
+          "source_bbox": [
+            2,
+            272,
+            90,
+            360
+          ],
+          "trim_offset": [
+            28,
+            311
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_03/frame_02.png",
+          "size": [
+            53,
+            49
+          ],
+          "anchor": [
+            26,
+            49
+          ],
+          "source_bbox": [
+            92,
+            272,
+            180,
+            360
+          ],
+          "trim_offset": [
+            118,
+            311
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_03/frame_03.png",
+          "size": [
+            67,
+            53
+          ],
+          "anchor": [
+            33,
+            53
+          ],
+          "source_bbox": [
+            182,
+            272,
+            270,
+            360
+          ],
+          "trim_offset": [
+            195,
+            301
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_03/frame_04.png",
+          "size": [
+            66,
+            53
+          ],
+          "anchor": [
+            33,
+            53
+          ],
+          "source_bbox": [
+            272,
+            272,
+            360,
+            360
+          ],
+          "trim_offset": [
+            285,
+            307
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_03/frame_05.png",
+          "size": [
+            67,
+            53
+          ],
+          "anchor": [
+            33,
+            53
+          ],
+          "source_bbox": [
+            362,
+            272,
+            450,
+            360
+          ],
+          "trim_offset": [
+            375,
+            301
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_03/frame_06.png",
+          "size": [
+            66,
+            53
+          ],
+          "anchor": [
+            33,
+            53
+          ],
+          "source_bbox": [
+            452,
+            272,
+            540,
+            360
+          ],
+          "trim_offset": [
+            465,
+            307
+          ]
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_04/frame_01.png",
+          "size": [
+            47,
+            60
+          ],
+          "anchor": [
+            23,
+            60
+          ],
+          "source_bbox": [
+            2,
+            362,
+            90,
+            450
+          ],
+          "trim_offset": [
+            27,
+            390
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_04/frame_02.png",
+          "size": [
+            45,
+            58
+          ],
+          "anchor": [
+            22,
+            58
+          ],
+          "source_bbox": [
+            92,
+            362,
+            180,
+            450
+          ],
+          "trim_offset": [
+            120,
+            392
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_04/frame_03.png",
+          "size": [
+            51,
+            72
+          ],
+          "anchor": [
+            25,
+            72
+          ],
+          "source_bbox": [
+            182,
+            362,
+            270,
+            450
+          ],
+          "trim_offset": [
+            206,
+            373
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_04/frame_04.png",
+          "size": [
+            59,
+            77
+          ],
+          "anchor": [
+            29,
+            77
+          ],
+          "source_bbox": [
+            272,
+            362,
+            360,
+            450
+          ],
+          "trim_offset": [
+            287,
+            373
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_04/frame_05.png",
+          "size": [
+            61,
+            62
+          ],
+          "anchor": [
+            30,
+            62
+          ],
+          "source_bbox": [
+            362,
+            362,
+            450,
+            450
+          ],
+          "trim_offset": [
+            378,
+            388
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_04/frame_06.png",
+          "size": [
+            21,
+            14
+          ],
+          "anchor": [
+            10,
+            14
+          ],
+          "source_bbox": [
+            412,
+            414,
+            433,
+            428
+          ],
+          "trim_offset": [
+            412,
+            414
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_04/frame_07.png",
+          "size": [
+            68,
+            35
+          ],
+          "anchor": [
+            34,
+            35
+          ],
+          "source_bbox": [
+            452,
+            362,
+            540,
+            450
+          ],
+          "trim_offset": [
+            465,
+            398
+          ]
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_05/frame_01.png",
+          "size": [
+            44,
+            59
+          ],
+          "anchor": [
+            22,
+            59
+          ],
+          "source_bbox": [
+            2,
+            452,
+            90,
+            540
+          ],
+          "trim_offset": [
+            27,
+            480
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_05/frame_02.png",
+          "size": [
+            41,
+            81
+          ],
+          "anchor": [
+            20,
+            81
+          ],
+          "source_bbox": [
+            92,
+            452,
+            180,
+            540
+          ],
+          "trim_offset": [
+            120,
+            459
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_05/frame_03.png",
+          "size": [
+            41,
+            79
+          ],
+          "anchor": [
+            20,
+            79
+          ],
+          "source_bbox": [
+            182,
+            452,
+            270,
+            540
+          ],
+          "trim_offset": [
+            210,
+            461
+          ]
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_06/frame_01.png",
+          "size": [
+            53,
+            69
+          ],
+          "anchor": [
+            26,
+            69
+          ],
+          "source_bbox": [
+            2,
+            542,
+            82,
+            622
+          ],
+          "trim_offset": [
+            10,
+            553
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_06/frame_02.png",
+          "size": [
+            48,
+            63
+          ],
+          "anchor": [
+            24,
+            63
+          ],
+          "source_bbox": [
+            84,
+            542,
+            164,
+            622
+          ],
+          "trim_offset": [
+            103,
+            559
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_06/frame_03.png",
+          "size": [
+            49,
+            50
+          ],
+          "anchor": [
+            24,
+            50
+          ],
+          "source_bbox": [
+            166,
+            542,
+            246,
+            622
+          ],
+          "trim_offset": [
+            178,
+            570
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_06/frame_04.png",
+          "size": [
+            35,
+            68
+          ],
+          "anchor": [
+            17,
+            68
+          ],
+          "source_bbox": [
+            248,
+            542,
+            328,
+            622
+          ],
+          "trim_offset": [
+            266,
+            553
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_06/frame_05.png",
+          "size": [
+            35,
+            68
+          ],
+          "anchor": [
+            17,
+            68
+          ],
+          "source_bbox": [
+            330,
+            542,
+            410,
+            622
+          ],
+          "trim_offset": [
+            348,
+            553
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_06/frame_06.png",
+          "size": [
+            65,
+            58
+          ],
+          "anchor": [
+            32,
+            58
+          ],
+          "source_bbox": [
+            412,
+            542,
+            492,
+            622
+          ],
+          "trim_offset": [
+            418,
+            564
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_06/frame_07.png",
+          "size": [
+            58,
+            41
+          ],
+          "anchor": [
+            29,
+            41
+          ],
+          "source_bbox": [
+            494,
+            542,
+            574,
+            622
+          ],
+          "trim_offset": [
+            505,
+            579
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_06/frame_08.png",
+          "size": [
+            68,
+            35
+          ],
+          "anchor": [
+            34,
+            35
+          ],
+          "source_bbox": [
+            576,
+            542,
+            656,
+            622
+          ],
+          "trim_offset": [
+            584,
+            587
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_06/frame_09.png",
+          "size": [
+            58,
+            56
+          ],
+          "anchor": [
+            29,
+            56
+          ],
+          "source_bbox": [
+            658,
+            542,
+            738,
+            622
+          ],
+          "trim_offset": [
+            673,
+            561
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_06/frame_10.png",
+          "size": [
+            65,
+            51
+          ],
+          "anchor": [
+            32,
+            51
+          ],
+          "source_bbox": [
+            740,
+            542,
+            820,
+            622
+          ],
+          "trim_offset": [
+            750,
+            560
+          ]
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_07/frame_01.png",
+          "size": [
+            75,
+            28
+          ],
+          "anchor": [
+            37,
+            28
+          ],
+          "source_bbox": [
+            2,
+            624,
+            82,
+            704
+          ],
+          "trim_offset": [
+            5,
+            676
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_07/frame_02.png",
+          "size": [
+            37,
+            48
+          ],
+          "anchor": [
+            18,
+            48
+          ],
+          "source_bbox": [
+            84,
+            624,
+            164,
+            704
+          ],
+          "trim_offset": [
+            89,
+            656
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_07/frame_03.png",
+          "size": [
+            62,
+            51
+          ],
+          "anchor": [
+            31,
+            51
+          ],
+          "source_bbox": [
+            166,
+            624,
+            246,
+            704
+          ],
+          "trim_offset": [
+            181,
+            649
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_07/frame_04.png",
+          "size": [
+            50,
+            49
+          ],
+          "anchor": [
+            25,
+            49
+          ],
+          "source_bbox": [
+            248,
+            624,
+            328,
+            704
+          ],
+          "trim_offset": [
+            263,
+            651
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_07/frame_05.png",
+          "size": [
+            45,
+            58
+          ],
+          "anchor": [
+            22,
+            58
+          ],
+          "source_bbox": [
+            330,
+            624,
+            410,
+            704
+          ],
+          "trim_offset": [
+            361,
+            646
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_07/frame_06.png",
+          "size": [
+            50,
+            56
+          ],
+          "anchor": [
+            25,
+            56
+          ],
+          "source_bbox": [
+            412,
+            624,
+            492,
+            704
+          ],
+          "trim_offset": [
+            432,
+            648
+          ]
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_08/frame_01.png",
+          "size": [
+            48,
+            62
+          ],
+          "anchor": [
+            24,
+            62
+          ],
+          "source_bbox": [
+            2,
+            706,
+            106,
+            786
+          ],
+          "trim_offset": [
+            18,
+            724
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_08/frame_02.png",
+          "size": [
+            78,
+            60
+          ],
+          "anchor": [
+            39,
+            60
+          ],
+          "source_bbox": [
+            108,
+            706,
+            212,
+            786
+          ],
+          "trim_offset": [
+            125,
+            726
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_08/frame_03.png",
+          "size": [
+            76,
+            60
+          ],
+          "anchor": [
+            38,
+            60
+          ],
+          "source_bbox": [
+            214,
+            706,
+            318,
+            786
+          ],
+          "trim_offset": [
+            231,
+            726
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_08/frame_04.png",
+          "size": [
+            53,
+            64
+          ],
+          "anchor": [
+            26,
+            64
+          ],
+          "source_bbox": [
+            320,
+            706,
+            424,
+            786
+          ],
+          "trim_offset": [
+            339,
+            721
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_08/frame_05.png",
+          "size": [
+            81,
+            60
+          ],
+          "anchor": [
+            40,
+            60
+          ],
+          "source_bbox": [
+            426,
+            706,
+            530,
+            786
+          ],
+          "trim_offset": [
+            447,
+            726
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_08/frame_06.png",
+          "size": [
+            78,
+            60
+          ],
+          "anchor": [
+            39,
+            60
+          ],
+          "source_bbox": [
+            532,
+            706,
+            636,
+            786
+          ],
+          "trim_offset": [
+            554,
+            726
+          ]
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_09/frame_01.png",
+          "size": [
+            21,
+            31
+          ],
+          "anchor": [
+            10,
+            31
+          ],
+          "source_bbox": [
+            2,
+            788,
+            106,
+            868
+          ],
+          "trim_offset": [
+            75,
+            837
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_09/frame_02.png",
+          "size": [
+            33,
+            59
+          ],
+          "anchor": [
+            16,
+            59
+          ],
+          "source_bbox": [
+            108,
+            788,
+            212,
+            868
+          ],
+          "trim_offset": [
+            158,
+            809
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_09/frame_03.png",
+          "size": [
+            22,
+            80
+          ],
+          "anchor": [
+            11,
+            80
+          ],
+          "source_bbox": [
+            214,
+            788,
+            261,
+            868
+          ],
+          "trim_offset": [
+            239,
+            788
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_09/frame_04.png",
+          "size": [
+            10,
+            79
+          ],
+          "anchor": [
+            5,
+            79
+          ],
+          "source_bbox": [
+            261,
+            788,
+            318,
+            868
+          ],
+          "trim_offset": [
+            261,
+            788
+          ]
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_10/frame_01.png",
+          "size": [
+            46,
+            70
+          ],
+          "anchor": [
+            23,
+            70
+          ],
+          "source_bbox": [
+            2,
+            870,
+            106,
+            950
+          ],
+          "trim_offset": [
+            32,
+            879
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_10/frame_02.png",
+          "size": [
+            47,
+            63
+          ],
+          "anchor": [
+            23,
+            63
+          ],
+          "source_bbox": [
+            108,
+            870,
+            212,
+            950
+          ],
+          "trim_offset": [
+            145,
+            886
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_10/frame_03.png",
+          "size": [
+            59,
+            68
+          ],
+          "anchor": [
+            29,
+            68
+          ],
+          "source_bbox": [
+            214,
+            870,
+            318,
+            950
+          ],
+          "trim_offset": [
+            256,
+            878
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_10/frame_04.png",
+          "size": [
+            56,
+            70
+          ],
+          "anchor": [
+            28,
+            70
+          ],
+          "source_bbox": [
+            320,
+            870,
+            424,
+            950
+          ],
+          "trim_offset": [
+            365,
+            879
+          ]
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_11/frame_01.png",
+          "size": [
+            63,
+            54
+          ],
+          "anchor": [
+            31,
+            54
+          ],
+          "source_bbox": [
+            2,
+            952,
+            106,
+            1032
+          ],
+          "trim_offset": [
+            2,
+            978
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_11/frame_02.png",
+          "size": [
+            55,
+            37
+          ],
+          "anchor": [
+            27,
+            37
+          ],
+          "source_bbox": [
+            2,
+            994,
+            57,
+            1032
+          ],
+          "trim_offset": [
+            2,
+            994
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_11/frame_03.png",
+          "size": [
+            52,
+            71
+          ],
+          "anchor": [
+            26,
+            71
+          ],
+          "source_bbox": [
+            108,
+            952,
+            212,
+            1032
+          ],
+          "trim_offset": [
+            124,
+            957
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_11/frame_04.png",
+          "size": [
+            73,
+            55
+          ],
+          "anchor": [
+            36,
+            55
+          ],
+          "source_bbox": [
+            214,
+            952,
+            318,
+            1032
+          ],
+          "trim_offset": [
+            243,
+            976
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_11/frame_05.png",
+          "size": [
+            53,
+            61
+          ],
+          "anchor": [
+            26,
+            61
+          ],
+          "source_bbox": [
+            320,
+            952,
+            424,
+            1032
+          ],
+          "trim_offset": [
+            347,
+            971
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_11/frame_06.png",
+          "size": [
+            47,
+            67
+          ],
+          "anchor": [
+            23,
+            67
+          ],
+          "source_bbox": [
+            426,
+            952,
+            530,
+            1032
+          ],
+          "trim_offset": [
+            442,
+            965
+          ]
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_12/frame_01.png",
+          "size": [
+            44,
+            58
+          ],
+          "anchor": [
+            22,
+            58
+          ],
+          "source_bbox": [
+            2,
+            1034,
+            106,
+            1114
+          ],
+          "trim_offset": [
+            29,
+            1050
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_12/frame_02.png",
+          "size": [
+            48,
+            57
+          ],
+          "anchor": [
+            24,
+            57
+          ],
+          "source_bbox": [
+            108,
+            1034,
+            212,
+            1114
+          ],
+          "trim_offset": [
+            144,
+            1056
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_12/frame_03.png",
+          "size": [
+            54,
+            67
+          ],
+          "anchor": [
+            27,
+            67
+          ],
+          "source_bbox": [
+            214,
+            1034,
+            318,
+            1114
+          ],
+          "trim_offset": [
+            228,
+            1046
+          ]
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_13/frame_01.png",
+          "size": [
+            50,
+            69
+          ],
+          "anchor": [
+            25,
+            69
+          ],
+          "source_bbox": [
+            2,
+            1116,
+            106,
+            1196
+          ],
+          "trim_offset": [
+            3,
+            1120
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_13/frame_02.png",
+          "size": [
+            44,
+            75
+          ],
+          "anchor": [
+            22,
+            75
+          ],
+          "source_bbox": [
+            108,
+            1116,
+            212,
+            1196
+          ],
+          "trim_offset": [
+            115,
+            1121
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_13/frame_03.png",
+          "size": [
+            65,
+            56
+          ],
+          "anchor": [
+            32,
+            56
+          ],
+          "source_bbox": [
+            214,
+            1116,
+            318,
+            1196
+          ],
+          "trim_offset": [
+            241,
+            1137
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_13/frame_04.png",
+          "size": [
+            56,
+            53
+          ],
+          "anchor": [
+            28,
+            53
+          ],
+          "source_bbox": [
+            320,
+            1116,
+            424,
+            1196
+          ],
+          "trim_offset": [
+            347,
+            1138
+          ]
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_14/frame_01.png",
+          "size": [
+            42,
+            58
+          ],
+          "anchor": [
+            21,
+            58
+          ],
+          "source_bbox": [
+            2,
+            1198,
+            106,
+            1278
+          ],
+          "trim_offset": [
+            21,
+            1215
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_14/frame_02.png",
+          "size": [
+            56,
+            58
+          ],
+          "anchor": [
+            28,
+            58
+          ],
+          "source_bbox": [
+            108,
+            1198,
+            212,
+            1278
+          ],
+          "trim_offset": [
+            127,
+            1213
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_14/frame_03.png",
+          "size": [
+            53,
+            60
+          ],
+          "anchor": [
+            26,
+            60
+          ],
+          "source_bbox": [
+            214,
+            1198,
+            318,
+            1278
+          ],
+          "trim_offset": [
+            235,
+            1214
+          ]
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_15/frame_01.png",
+          "size": [
+            47,
+            61
+          ],
+          "anchor": [
+            23,
+            61
+          ],
+          "source_bbox": [
+            2,
+            1280,
+            106,
+            1360
+          ],
+          "trim_offset": [
+            21,
+            1295
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_15/frame_02.png",
+          "size": [
+            71,
+            48
+          ],
+          "anchor": [
+            35,
+            48
+          ],
+          "source_bbox": [
+            108,
+            1280,
+            212,
+            1360
+          ],
+          "trim_offset": [
+            118,
+            1296
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_15/frame_03.png",
+          "size": [
+            48,
+            51
+          ],
+          "anchor": [
+            24,
+            51
+          ],
+          "source_bbox": [
+            214,
+            1280,
+            318,
+            1360
+          ],
+          "trim_offset": [
+            234,
+            1298
+          ]
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_16/frame_01.png",
+          "size": [
+            63,
+            64
+          ],
+          "anchor": [
+            31,
+            64
+          ],
+          "source_bbox": [
+            2,
+            1362,
+            106,
+            1442
+          ],
+          "trim_offset": [
+            11,
+            1378
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_16/frame_02.png",
+          "size": [
+            65,
+            62
+          ],
+          "anchor": [
+            32,
+            62
+          ],
+          "source_bbox": [
+            108,
+            1362,
+            212,
+            1442
+          ],
+          "trim_offset": [
+            115,
+            1375
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_16/frame_03.png",
+          "size": [
+            44,
+            63
+          ],
+          "anchor": [
+            22,
+            63
+          ],
+          "source_bbox": [
+            214,
+            1362,
+            318,
+            1442
+          ],
+          "trim_offset": [
+            239,
+            1379
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_16/frame_04.png",
+          "size": [
+            47,
+            66
+          ],
+          "anchor": [
+            23,
+            66
+          ],
+          "source_bbox": [
+            320,
+            1362,
+            424,
+            1442
+          ],
+          "trim_offset": [
+            342,
+            1376
+          ]
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_17/frame_01.png",
+          "size": [
+            52,
+            61
+          ],
+          "anchor": [
+            26,
+            61
+          ],
+          "source_bbox": [
+            2,
+            1444,
+            106,
+            1524
+          ],
+          "trim_offset": [
+            15,
+            1463
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_17/frame_02.png",
+          "size": [
+            53,
+            66
+          ],
+          "anchor": [
+            26,
+            66
+          ],
+          "source_bbox": [
+            108,
+            1444,
+            212,
+            1524
+          ],
+          "trim_offset": [
+            120,
+            1458
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_17/frame_03.png",
+          "size": [
+            53,
+            65
+          ],
+          "anchor": [
+            26,
+            65
+          ],
+          "source_bbox": [
+            214,
+            1444,
+            318,
+            1524
+          ],
+          "trim_offset": [
+            226,
+            1459
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_17/frame_04.png",
+          "size": [
+            53,
+            65
+          ],
+          "anchor": [
+            26,
+            65
+          ],
+          "source_bbox": [
+            320,
+            1444,
+            424,
+            1524
+          ],
+          "trim_offset": [
+            332,
+            1459
+          ]
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_18/frame_01.png",
+          "size": [
+            63,
+            54
+          ],
+          "anchor": [
+            31,
+            54
+          ],
+          "source_bbox": [
+            2,
+            1526,
+            98,
+            1606
+          ],
+          "trim_offset": [
+            2,
+            1552
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_18/frame_02.png",
+          "size": [
+            55,
+            37
+          ],
+          "anchor": [
+            27,
+            37
+          ],
+          "source_bbox": [
+            2,
+            1568,
+            57,
+            1606
+          ],
+          "trim_offset": [
+            2,
+            1568
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_18/frame_03.png",
+          "size": [
+            81,
+            60
+          ],
+          "anchor": [
+            40,
+            60
+          ],
+          "source_bbox": [
+            100,
+            1526,
+            196,
+            1606
+          ],
+          "trim_offset": [
+            108,
+            1546
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_18/frame_04.png",
+          "size": [
+            81,
+            60
+          ],
+          "anchor": [
+            40,
+            60
+          ],
+          "source_bbox": [
+            198,
+            1526,
+            294,
+            1606
+          ],
+          "trim_offset": [
+            206,
+            1546
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_18/frame_05.png",
+          "size": [
+            78,
+            60
+          ],
+          "anchor": [
+            39,
+            60
+          ],
+          "source_bbox": [
+            296,
+            1526,
+            392,
+            1606
+          ],
+          "trim_offset": [
+            307,
+            1546
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_18/frame_06.png",
+          "size": [
+            47,
+            67
+          ],
+          "anchor": [
+            23,
+            67
+          ],
+          "source_bbox": [
+            394,
+            1526,
+            490,
+            1606
+          ],
+          "trim_offset": [
+            395,
+            1539
+          ]
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_19/frame_01.png",
+          "size": [
+            53,
+            49
+          ],
+          "anchor": [
+            26,
+            49
+          ],
+          "source_bbox": [
+            2,
+            1608,
+            130,
+            1704
+          ],
+          "trim_offset": [
+            62,
+            1654
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_19/frame_02.png",
+          "size": [
+            60,
+            59
+          ],
+          "anchor": [
+            30,
+            59
+          ],
+          "source_bbox": [
+            132,
+            1608,
+            260,
+            1704
+          ],
+          "trim_offset": [
+            179,
+            1644
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_19/frame_03.png",
+          "size": [
+            58,
+            60
+          ],
+          "anchor": [
+            29,
+            60
+          ],
+          "source_bbox": [
+            262,
+            1608,
+            390,
+            1704
+          ],
+          "trim_offset": [
+            309,
+            1643
+          ]
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_20/frame_01.png",
+          "size": [
+            47,
+            61
+          ],
+          "anchor": [
+            23,
+            61
+          ],
+          "source_bbox": [
+            2,
+            1706,
+            130,
+            1802
+          ],
+          "trim_offset": [
+            60,
+            1736
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_20/frame_02.png",
+          "size": [
+            75,
+            61
+          ],
+          "anchor": [
+            37,
+            61
+          ],
+          "source_bbox": [
+            132,
+            1706,
+            260,
+            1802
+          ],
+          "trim_offset": [
+            179,
+            1737
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_20/frame_03.png",
+          "size": [
+            72,
+            60
+          ],
+          "anchor": [
+            36,
+            60
+          ],
+          "source_bbox": [
+            262,
+            1706,
+            390,
+            1802
+          ],
+          "trim_offset": [
+            311,
+            1738
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_20/frame_04.png",
+          "size": [
+            75,
+            60
+          ],
+          "anchor": [
+            37,
+            60
+          ],
+          "source_bbox": [
+            392,
+            1707,
+            520,
+            1803
+          ],
+          "trim_offset": [
+            439,
+            1739
+          ]
+        }
+      ]
+    },
+    {
+      "row": 21,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_21/frame_01.png",
+          "size": [
+            58,
+            61
+          ],
+          "anchor": [
+            29,
+            61
+          ],
+          "source_bbox": [
+            2,
+            1804,
+            130,
+            1900
+          ],
+          "trim_offset": [
+            49,
+            1838
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_21/frame_02.png",
+          "size": [
+            81,
+            60
+          ],
+          "anchor": [
+            40,
+            60
+          ],
+          "source_bbox": [
+            132,
+            1804,
+            260,
+            1900
+          ],
+          "trim_offset": [
+            179,
+            1839
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_21/frame_03.png",
+          "size": [
+            81,
+            60
+          ],
+          "anchor": [
+            40,
+            60
+          ],
+          "source_bbox": [
+            262,
+            1804,
+            390,
+            1900
+          ],
+          "trim_offset": [
+            309,
+            1839
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_21/frame_04.png",
+          "size": [
+            78,
+            60
+          ],
+          "anchor": [
+            39,
+            60
+          ],
+          "source_bbox": [
+            392,
+            1804,
+            520,
+            1900
+          ],
+          "trim_offset": [
+            441,
+            1839
+          ]
+        }
+      ]
+    },
+    {
+      "row": 22,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_22/frame_01.png",
+          "size": [
+            71,
+            66
+          ],
+          "anchor": [
+            35,
+            66
+          ],
+          "source_bbox": [
+            2,
+            1902,
+            130,
+            1998
+          ],
+          "trim_offset": [
+            21,
+            1931
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_22/frame_02.png",
+          "size": [
+            74,
+            66
+          ],
+          "anchor": [
+            37,
+            66
+          ],
+          "source_bbox": [
+            132,
+            1902,
+            260,
+            1998
+          ],
+          "trim_offset": [
+            151,
+            1931
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_22/frame_03.png",
+          "size": [
+            74,
+            66
+          ],
+          "anchor": [
+            37,
+            66
+          ],
+          "source_bbox": [
+            262,
+            1902,
+            390,
+            1998
+          ],
+          "trim_offset": [
+            281,
+            1931
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_22/frame_04.png",
+          "size": [
+            74,
+            66
+          ],
+          "anchor": [
+            37,
+            66
+          ],
+          "source_bbox": [
+            392,
+            1902,
+            520,
+            1998
+          ],
+          "trim_offset": [
+            411,
+            1931
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_22/frame_05.png",
+          "size": [
+            68,
+            67
+          ],
+          "anchor": [
+            34,
+            67
+          ],
+          "source_bbox": [
+            522,
+            1902,
+            650,
+            1998
+          ],
+          "trim_offset": [
+            541,
+            1930
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_22/frame_06.png",
+          "size": [
+            68,
+            75
+          ],
+          "anchor": [
+            34,
+            75
+          ],
+          "source_bbox": [
+            652,
+            1902,
+            780,
+            1998
+          ],
+          "trim_offset": [
+            671,
+            1922
+          ]
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_23/frame_01.png",
+          "size": [
+            61,
+            55
+          ],
+          "anchor": [
+            30,
+            55
+          ],
+          "source_bbox": [
+            2,
+            2000,
+            130,
+            2096
+          ],
+          "trim_offset": [
+            47,
+            2040
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_23/frame_02.png",
+          "size": [
+            69,
+            62
+          ],
+          "anchor": [
+            34,
+            62
+          ],
+          "source_bbox": [
+            132,
+            2000,
+            260,
+            2096
+          ],
+          "trim_offset": [
+            179,
+            2033
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_23/frame_03.png",
+          "size": [
+            67,
+            63
+          ],
+          "anchor": [
+            33,
+            63
+          ],
+          "source_bbox": [
+            262,
+            2000,
+            390,
+            2096
+          ],
+          "trim_offset": [
+            309,
+            2032
+          ]
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_24/frame_01.png",
+          "size": [
+            78,
+            70
+          ],
+          "anchor": [
+            39,
+            70
+          ],
+          "source_bbox": [
+            2,
+            2098,
+            130,
+            2194
+          ],
+          "trim_offset": [
+            46,
+            2123
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_24/frame_02.png",
+          "size": [
+            75,
+            70
+          ],
+          "anchor": [
+            37,
+            70
+          ],
+          "source_bbox": [
+            132,
+            2098,
+            260,
+            2194
+          ],
+          "trim_offset": [
+            179,
+            2123
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_24/frame_03.png",
+          "size": [
+            73,
+            68
+          ],
+          "anchor": [
+            36,
+            68
+          ],
+          "source_bbox": [
+            262,
+            2098,
+            390,
+            2194
+          ],
+          "trim_offset": [
+            310,
+            2124
+          ]
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_25/frame_01.png",
+          "size": [
+            69,
+            64
+          ],
+          "anchor": [
+            34,
+            64
+          ],
+          "source_bbox": [
+            2,
+            2197,
+            130,
+            2293
+          ],
+          "trim_offset": [
+            47,
+            2228
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_25/frame_02.png",
+          "size": [
+            67,
+            64
+          ],
+          "anchor": [
+            33,
+            64
+          ],
+          "source_bbox": [
+            132,
+            2197,
+            260,
+            2293
+          ],
+          "trim_offset": [
+            179,
+            2228
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_25/frame_03.png",
+          "size": [
+            89,
+            61
+          ],
+          "anchor": [
+            44,
+            61
+          ],
+          "source_bbox": [
+            262,
+            2197,
+            390,
+            2293
+          ],
+          "trim_offset": [
+            301,
+            2231
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_25/frame_04.png",
+          "size": [
+            86,
+            61
+          ],
+          "anchor": [
+            43,
+            61
+          ],
+          "source_bbox": [
+            392,
+            2197,
+            520,
+            2293
+          ],
+          "trim_offset": [
+            431,
+            2231
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_25/frame_05.png",
+          "size": [
+            89,
+            61
+          ],
+          "anchor": [
+            44,
+            61
+          ],
+          "source_bbox": [
+            522,
+            2197,
+            650,
+            2293
+          ],
+          "trim_offset": [
+            561,
+            2231
+          ]
+        }
+      ]
+    },
+    {
+      "row": 26,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_26/frame_01.png",
+          "size": [
+            96,
+            67
+          ],
+          "anchor": [
+            48,
+            67
+          ],
+          "source_bbox": [
+            2,
+            2295,
+            130,
+            2391
+          ],
+          "trim_offset": [
+            2,
+            2323
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_26/frame_02.png",
+          "size": [
+            94,
+            67
+          ],
+          "anchor": [
+            47,
+            67
+          ],
+          "source_bbox": [
+            132,
+            2295,
+            260,
+            2391
+          ],
+          "trim_offset": [
+            136,
+            2323
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_26/frame_03.png",
+          "size": [
+            15,
+            14
+          ],
+          "anchor": [
+            7,
+            14
+          ],
+          "source_bbox": [
+            175,
+            2368,
+            190,
+            2382
+          ],
+          "trim_offset": [
+            175,
+            2368
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_26/frame_04.png",
+          "size": [
+            94,
+            67
+          ],
+          "anchor": [
+            47,
+            67
+          ],
+          "source_bbox": [
+            262,
+            2295,
+            390,
+            2391
+          ],
+          "trim_offset": [
+            266,
+            2323
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_26/frame_05.png",
+          "size": [
+            15,
+            14
+          ],
+          "anchor": [
+            7,
+            14
+          ],
+          "source_bbox": [
+            305,
+            2368,
+            320,
+            2382
+          ],
+          "trim_offset": [
+            305,
+            2368
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_26/frame_06.png",
+          "size": [
+            94,
+            67
+          ],
+          "anchor": [
+            47,
+            67
+          ],
+          "source_bbox": [
+            392,
+            2295,
+            520,
+            2391
+          ],
+          "trim_offset": [
+            396,
+            2323
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_26/frame_07.png",
+          "size": [
+            15,
+            14
+          ],
+          "anchor": [
+            7,
+            14
+          ],
+          "source_bbox": [
+            435,
+            2368,
+            450,
+            2382
+          ],
+          "trim_offset": [
+            435,
+            2368
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_26/frame_08.png",
+          "size": [
+            88,
+            68
+          ],
+          "anchor": [
+            44,
+            68
+          ],
+          "source_bbox": [
+            522,
+            2295,
+            650,
+            2391
+          ],
+          "trim_offset": [
+            526,
+            2322
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_26/frame_09.png",
+          "size": [
+            13,
+            14
+          ],
+          "anchor": [
+            6,
+            14
+          ],
+          "source_bbox": [
+            565,
+            2368,
+            578,
+            2382
+          ],
+          "trim_offset": [
+            565,
+            2368
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_26/frame_10.png",
+          "size": [
+            88,
+            75
+          ],
+          "anchor": [
+            44,
+            75
+          ],
+          "source_bbox": [
+            652,
+            2295,
+            780,
+            2391
+          ],
+          "trim_offset": [
+            656,
+            2315
+          ]
+        }
+      ]
+    },
+    {
+      "row": 27,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_27/frame_01.png",
+          "size": [
+            65,
+            58
+          ],
+          "anchor": [
+            32,
+            58
+          ],
+          "source_bbox": [
+            2,
+            2393,
+            130,
+            2489
+          ],
+          "trim_offset": [
+            37,
+            2430
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_27/frame_02.png",
+          "size": [
+            78,
+            63
+          ],
+          "anchor": [
+            39,
+            63
+          ],
+          "source_bbox": [
+            132,
+            2393,
+            260,
+            2489
+          ],
+          "trim_offset": [
+            157,
+            2425
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_27/frame_03.png",
+          "size": [
+            77,
+            61
+          ],
+          "anchor": [
+            38,
+            61
+          ],
+          "source_bbox": [
+            262,
+            2393,
+            390,
+            2489
+          ],
+          "trim_offset": [
+            271,
+            2427
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_27/frame_04.png",
+          "size": [
+            127,
+            33
+          ],
+          "anchor": [
+            63,
+            33
+          ],
+          "source_bbox": [
+            392,
+            2393,
+            520,
+            2456
+          ],
+          "trim_offset": [
+            393,
+            2423
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_27/frame_05.png",
+          "size": [
+            128,
+            39
+          ],
+          "anchor": [
+            64,
+            39
+          ],
+          "source_bbox": [
+            392,
+            2444,
+            520,
+            2489
+          ],
+          "trim_offset": [
+            392,
+            2444
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_27/frame_06.png",
+          "size": [
+            127,
+            41
+          ],
+          "anchor": [
+            63,
+            41
+          ],
+          "source_bbox": [
+            522,
+            2393,
+            650,
+            2464
+          ],
+          "trim_offset": [
+            523,
+            2423
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_27/frame_07.png",
+          "size": [
+            128,
+            39
+          ],
+          "anchor": [
+            64,
+            39
+          ],
+          "source_bbox": [
+            522,
+            2444,
+            650,
+            2489
+          ],
+          "trim_offset": [
+            522,
+            2444
+          ]
+        }
+      ]
+    },
+    {
+      "row": 28,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_28/frame_01.png",
+          "size": [
+            88,
+            53
+          ],
+          "anchor": [
+            44,
+            53
+          ],
+          "source_bbox": [
+            2,
+            2491,
+            130,
+            2587
+          ],
+          "trim_offset": [
+            18,
+            2530
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_28/frame_02.png",
+          "size": [
+            47,
+            43
+          ],
+          "anchor": [
+            23,
+            43
+          ],
+          "source_bbox": [
+            132,
+            2491,
+            260,
+            2587
+          ],
+          "trim_offset": [
+            179,
+            2539
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_28/frame_03.png",
+          "size": [
+            43,
+            47
+          ],
+          "anchor": [
+            21,
+            47
+          ],
+          "source_bbox": [
+            262,
+            2491,
+            390,
+            2587
+          ],
+          "trim_offset": [
+            310,
+            2537
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_28/frame_04.png",
+          "size": [
+            51,
+            73
+          ],
+          "anchor": [
+            25,
+            73
+          ],
+          "source_bbox": [
+            392,
+            2491,
+            520,
+            2587
+          ],
+          "trim_offset": [
+            428,
+            2512
+          ]
+        }
+      ]
+    },
+    {
+      "row": 29,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_29/frame_01.png",
+          "size": [
+            77,
+            62
+          ],
+          "anchor": [
+            38,
+            62
+          ],
+          "source_bbox": [
+            2,
+            2589,
+            130,
+            2685
+          ],
+          "trim_offset": [
+            29,
+            2622
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_29/frame_02.png",
+          "size": [
+            91,
+            77
+          ],
+          "anchor": [
+            45,
+            77
+          ],
+          "source_bbox": [
+            132,
+            2589,
+            260,
+            2685
+          ],
+          "trim_offset": [
+            133,
+            2607
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_29/frame_03.png",
+          "size": [
+            89,
+            93
+          ],
+          "anchor": [
+            44,
+            93
+          ],
+          "source_bbox": [
+            262,
+            2589,
+            390,
+            2685
+          ],
+          "trim_offset": [
+            266,
+            2591
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_29/frame_04.png",
+          "size": [
+            83,
+            92
+          ],
+          "anchor": [
+            41,
+            92
+          ],
+          "source_bbox": [
+            392,
+            2589,
+            520,
+            2685
+          ],
+          "trim_offset": [
+            394,
+            2592
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_29/frame_05.png",
+          "size": [
+            87,
+            86
+          ],
+          "anchor": [
+            43,
+            86
+          ],
+          "source_bbox": [
+            522,
+            2589,
+            650,
+            2685
+          ],
+          "trim_offset": [
+            527,
+            2598
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_29/frame_06.png",
+          "size": [
+            13,
+            18
+          ],
+          "anchor": [
+            6,
+            18
+          ],
+          "source_bbox": [
+            575,
+            2643,
+            588,
+            2661
+          ],
+          "trim_offset": [
+            575,
+            2643
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_29/frame_07.png",
+          "size": [
+            125,
+            75
+          ],
+          "anchor": [
+            62,
+            75
+          ],
+          "source_bbox": [
+            652,
+            2589,
+            780,
+            2685
+          ],
+          "trim_offset": [
+            652,
+            2609
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_29/frame_08.png",
+          "size": [
+            125,
+            86
+          ],
+          "anchor": [
+            62,
+            86
+          ],
+          "source_bbox": [
+            782,
+            2589,
+            910,
+            2685
+          ],
+          "trim_offset": [
+            782,
+            2598
+          ]
+        }
+      ]
+    },
+    {
+      "row": 30,
+      "frames": [
+        {
+          "path": "assets/sprites/naruto/row_30/frame_01.png",
+          "size": [
+            37,
+            41
+          ],
+          "anchor": [
+            18,
+            41
+          ],
+          "source_bbox": [
+            2,
+            2687,
+            82,
+            2751
+          ],
+          "trim_offset": [
+            22,
+            2710
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_30/frame_02.png",
+          "size": [
+            38,
+            33
+          ],
+          "anchor": [
+            19,
+            33
+          ],
+          "source_bbox": [
+            84,
+            2687,
+            164,
+            2751
+          ],
+          "trim_offset": [
+            105,
+            2718
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_30/frame_03.png",
+          "size": [
+            44,
+            60
+          ],
+          "anchor": [
+            22,
+            60
+          ],
+          "source_bbox": [
+            166,
+            2687,
+            246,
+            2751
+          ],
+          "trim_offset": [
+            188,
+            2687
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_30/frame_04.png",
+          "size": [
+            42,
+            52
+          ],
+          "anchor": [
+            21,
+            52
+          ],
+          "source_bbox": [
+            248,
+            2687,
+            328,
+            2751
+          ],
+          "trim_offset": [
+            268,
+            2696
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_30/frame_05.png",
+          "size": [
+            46,
+            50
+          ],
+          "anchor": [
+            23,
+            50
+          ],
+          "source_bbox": [
+            330,
+            2687,
+            410,
+            2751
+          ],
+          "trim_offset": [
+            337,
+            2701
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_30/frame_06.png",
+          "size": [
+            54,
+            39
+          ],
+          "anchor": [
+            27,
+            39
+          ],
+          "source_bbox": [
+            412,
+            2687,
+            492,
+            2751
+          ],
+          "trim_offset": [
+            418,
+            2712
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_30/frame_07.png",
+          "size": [
+            60,
+            27
+          ],
+          "anchor": [
+            30,
+            27
+          ],
+          "source_bbox": [
+            494,
+            2687,
+            574,
+            2751
+          ],
+          "trim_offset": [
+            496,
+            2723
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_30/frame_08.png",
+          "size": [
+            61,
+            18
+          ],
+          "anchor": [
+            30,
+            18
+          ],
+          "source_bbox": [
+            576,
+            2687,
+            656,
+            2751
+          ],
+          "trim_offset": [
+            576,
+            2733
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_30/frame_09.png",
+          "size": [
+            60,
+            30
+          ],
+          "anchor": [
+            30,
+            30
+          ],
+          "source_bbox": [
+            658,
+            2687,
+            738,
+            2751
+          ],
+          "trim_offset": [
+            660,
+            2721
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_30/frame_10.png",
+          "size": [
+            80,
+            27
+          ],
+          "anchor": [
+            40,
+            27
+          ],
+          "source_bbox": [
+            740,
+            2687,
+            820,
+            2751
+          ],
+          "trim_offset": [
+            740,
+            2724
+          ]
+        },
+        {
+          "path": "assets/sprites/naruto/row_30/frame_11.png",
+          "size": [
+            45,
+            35
+          ],
+          "anchor": [
+            22,
+            35
+          ],
+          "source_bbox": [
+            822,
+            2687,
+            902,
+            2751
+          ],
+          "trim_offset": [
+            839,
+            2716
+          ]
+        }
+      ]
+    }
+  ]
+}

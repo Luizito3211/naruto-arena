@@ -1,0 +1,3386 @@
+{
+  "character": "sasuke",
+  "source": "assets/raw/sasuke.png",
+  "rows": [
+    {
+      "row": 0,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_00/frame_01.png",
+          "size": [
+            48,
+            68
+          ],
+          "anchor": [
+            24,
+            68
+          ],
+          "source_bbox": [
+            2,
+            2,
+            82,
+            82
+          ],
+          "trim_offset": [
+            16,
+            14
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_00/frame_02.png",
+          "size": [
+            48,
+            68
+          ],
+          "anchor": [
+            24,
+            68
+          ],
+          "source_bbox": [
+            84,
+            2,
+            164,
+            82
+          ],
+          "trim_offset": [
+            98,
+            14
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_00/frame_03.png",
+          "size": [
+            48,
+            68
+          ],
+          "anchor": [
+            24,
+            68
+          ],
+          "source_bbox": [
+            166,
+            2,
+            246,
+            82
+          ],
+          "trim_offset": [
+            180,
+            14
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_00/frame_04.png",
+          "size": [
+            48,
+            68
+          ],
+          "anchor": [
+            24,
+            68
+          ],
+          "source_bbox": [
+            248,
+            2,
+            328,
+            82
+          ],
+          "trim_offset": [
+            262,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_01/frame_01.png",
+          "size": [
+            48,
+            68
+          ],
+          "anchor": [
+            24,
+            68
+          ],
+          "source_bbox": [
+            2,
+            84,
+            82,
+            164
+          ],
+          "trim_offset": [
+            16,
+            96
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_01/frame_02.png",
+          "size": [
+            48,
+            67
+          ],
+          "anchor": [
+            24,
+            67
+          ],
+          "source_bbox": [
+            84,
+            84,
+            164,
+            164
+          ],
+          "trim_offset": [
+            98,
+            97
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_01/frame_03.png",
+          "size": [
+            49,
+            66
+          ],
+          "anchor": [
+            24,
+            66
+          ],
+          "source_bbox": [
+            166,
+            84,
+            246,
+            164
+          ],
+          "trim_offset": [
+            180,
+            98
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_01/frame_04.png",
+          "size": [
+            48,
+            65
+          ],
+          "anchor": [
+            24,
+            65
+          ],
+          "source_bbox": [
+            248,
+            84,
+            328,
+            164
+          ],
+          "trim_offset": [
+            263,
+            99
+          ]
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_02/frame_01.png",
+          "size": [
+            65,
+            56
+          ],
+          "anchor": [
+            32,
+            56
+          ],
+          "source_bbox": [
+            2,
+            166,
+            82,
+            246
+          ],
+          "trim_offset": [
+            14,
+            190
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_02/frame_02.png",
+          "size": [
+            61,
+            54
+          ],
+          "anchor": [
+            30,
+            54
+          ],
+          "source_bbox": [
+            84,
+            166,
+            164,
+            246
+          ],
+          "trim_offset": [
+            96,
+            191
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_02/frame_03.png",
+          "size": [
+            58,
+            53
+          ],
+          "anchor": [
+            29,
+            53
+          ],
+          "source_bbox": [
+            166,
+            166,
+            246,
+            246
+          ],
+          "trim_offset": [
+            180,
+            193
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_02/frame_04.png",
+          "size": [
+            64,
+            56
+          ],
+          "anchor": [
+            32,
+            56
+          ],
+          "source_bbox": [
+            248,
+            166,
+            328,
+            246
+          ],
+          "trim_offset": [
+            261,
+            190
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_02/frame_05.png",
+          "size": [
+            60,
+            54
+          ],
+          "anchor": [
+            30,
+            54
+          ],
+          "source_bbox": [
+            330,
+            166,
+            410,
+            246
+          ],
+          "trim_offset": [
+            343,
+            191
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_02/frame_06.png",
+          "size": [
+            58,
+            53
+          ],
+          "anchor": [
+            29,
+            53
+          ],
+          "source_bbox": [
+            412,
+            166,
+            492,
+            246
+          ],
+          "trim_offset": [
+            426,
+            193
+          ]
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_03/frame_01.png",
+          "size": [
+            51,
+            66
+          ],
+          "anchor": [
+            25,
+            66
+          ],
+          "source_bbox": [
+            2,
+            248,
+            82,
+            328
+          ],
+          "trim_offset": [
+            12,
+            262
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_03/frame_02.png",
+          "size": [
+            58,
+            63
+          ],
+          "anchor": [
+            29,
+            63
+          ],
+          "source_bbox": [
+            84,
+            248,
+            164,
+            328
+          ],
+          "trim_offset": [
+            96,
+            260
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_03/frame_03.png",
+          "size": [
+            49,
+            73
+          ],
+          "anchor": [
+            24,
+            73
+          ],
+          "source_bbox": [
+            166,
+            248,
+            246,
+            328
+          ],
+          "trim_offset": [
+            183,
+            255
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_03/frame_04.png",
+          "size": [
+            53,
+            61
+          ],
+          "anchor": [
+            26,
+            61
+          ],
+          "source_bbox": [
+            248,
+            248,
+            328,
+            328
+          ],
+          "trim_offset": [
+            263,
+            267
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_03/frame_05.png",
+          "size": [
+            48,
+            65
+          ],
+          "anchor": [
+            24,
+            65
+          ],
+          "source_bbox": [
+            330,
+            248,
+            410,
+            328
+          ],
+          "trim_offset": [
+            345,
+            263
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_03/frame_06.png",
+          "size": [
+            45,
+            65
+          ],
+          "anchor": [
+            22,
+            65
+          ],
+          "source_bbox": [
+            412,
+            248,
+            492,
+            328
+          ],
+          "trim_offset": [
+            429,
+            263
+          ]
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_04/frame_01.png",
+          "size": [
+            36,
+            75
+          ],
+          "anchor": [
+            18,
+            75
+          ],
+          "source_bbox": [
+            2,
+            330,
+            82,
+            410
+          ],
+          "trim_offset": [
+            25,
+            335
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_04/frame_02.png",
+          "size": [
+            38,
+            75
+          ],
+          "anchor": [
+            19,
+            75
+          ],
+          "source_bbox": [
+            84,
+            330,
+            164,
+            410
+          ],
+          "trim_offset": [
+            106,
+            335
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_04/frame_03.png",
+          "size": [
+            36,
+            74
+          ],
+          "anchor": [
+            18,
+            74
+          ],
+          "source_bbox": [
+            166,
+            330,
+            246,
+            410
+          ],
+          "trim_offset": [
+            186,
+            336
+          ]
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_05/frame_01.png",
+          "size": [
+            51,
+            69
+          ],
+          "anchor": [
+            25,
+            69
+          ],
+          "source_bbox": [
+            2,
+            412,
+            82,
+            492
+          ],
+          "trim_offset": [
+            14,
+            423
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_05/frame_02.png",
+          "size": [
+            49,
+            71
+          ],
+          "anchor": [
+            24,
+            71
+          ],
+          "source_bbox": [
+            84,
+            412,
+            164,
+            492
+          ],
+          "trim_offset": [
+            91,
+            421
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_05/frame_03.png",
+          "size": [
+            44,
+            72
+          ],
+          "anchor": [
+            22,
+            72
+          ],
+          "source_bbox": [
+            166,
+            412,
+            246,
+            492
+          ],
+          "trim_offset": [
+            169,
+            420
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_05/frame_04.png",
+          "size": [
+            48,
+            72
+          ],
+          "anchor": [
+            24,
+            72
+          ],
+          "source_bbox": [
+            248,
+            412,
+            328,
+            492
+          ],
+          "trim_offset": [
+            265,
+            420
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_05/frame_05.png",
+          "size": [
+            41,
+            75
+          ],
+          "anchor": [
+            20,
+            75
+          ],
+          "source_bbox": [
+            330,
+            412,
+            410,
+            492
+          ],
+          "trim_offset": [
+            347,
+            417
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_05/frame_06.png",
+          "size": [
+            50,
+            60
+          ],
+          "anchor": [
+            25,
+            60
+          ],
+          "source_bbox": [
+            412,
+            412,
+            492,
+            492
+          ],
+          "trim_offset": [
+            426,
+            426
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_05/frame_07.png",
+          "size": [
+            60,
+            50
+          ],
+          "anchor": [
+            30,
+            50
+          ],
+          "source_bbox": [
+            494,
+            412,
+            574,
+            492
+          ],
+          "trim_offset": [
+            500,
+            426
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_05/frame_08.png",
+          "size": [
+            28,
+            76
+          ],
+          "anchor": [
+            14,
+            76
+          ],
+          "source_bbox": [
+            576,
+            412,
+            656,
+            492
+          ],
+          "trim_offset": [
+            600,
+            416
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_05/frame_09.png",
+          "size": [
+            38,
+            63
+          ],
+          "anchor": [
+            19,
+            63
+          ],
+          "source_bbox": [
+            658,
+            412,
+            738,
+            492
+          ],
+          "trim_offset": [
+            682,
+            428
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_05/frame_10.png",
+          "size": [
+            37,
+            55
+          ],
+          "anchor": [
+            18,
+            55
+          ],
+          "source_bbox": [
+            740,
+            412,
+            820,
+            492
+          ],
+          "trim_offset": [
+            763,
+            432
+          ]
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_06/frame_01.png",
+          "size": [
+            72,
+            48
+          ],
+          "anchor": [
+            36,
+            48
+          ],
+          "source_bbox": [
+            2,
+            494,
+            82,
+            574
+          ],
+          "trim_offset": [
+            10,
+            526
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_06/frame_02.png",
+          "size": [
+            52,
+            13
+          ],
+          "anchor": [
+            26,
+            13
+          ],
+          "source_bbox": [
+            30,
+            560,
+            82,
+            574
+          ],
+          "trim_offset": [
+            30,
+            560
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_06/frame_03.png",
+          "size": [
+            69,
+            37
+          ],
+          "anchor": [
+            34,
+            37
+          ],
+          "source_bbox": [
+            84,
+            494,
+            164,
+            574
+          ],
+          "trim_offset": [
+            89,
+            536
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_06/frame_04.png",
+          "size": [
+            75,
+            41
+          ],
+          "anchor": [
+            37,
+            41
+          ],
+          "source_bbox": [
+            166,
+            494,
+            246,
+            574
+          ],
+          "trim_offset": [
+            170,
+            522
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_06/frame_05.png",
+          "size": [
+            65,
+            47
+          ],
+          "anchor": [
+            32,
+            47
+          ],
+          "source_bbox": [
+            248,
+            494,
+            328,
+            574
+          ],
+          "trim_offset": [
+            256,
+            519
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_06/frame_06.png",
+          "size": [
+            76,
+            22
+          ],
+          "anchor": [
+            38,
+            22
+          ],
+          "source_bbox": [
+            330,
+            494,
+            410,
+            574
+          ],
+          "trim_offset": [
+            333,
+            552
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_06/frame_07.png",
+          "size": [
+            60,
+            46
+          ],
+          "anchor": [
+            30,
+            46
+          ],
+          "source_bbox": [
+            412,
+            494,
+            492,
+            574
+          ],
+          "trim_offset": [
+            425,
+            527
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_06/frame_08.png",
+          "size": [
+            49,
+            46
+          ],
+          "anchor": [
+            24,
+            46
+          ],
+          "source_bbox": [
+            494,
+            494,
+            574,
+            574
+          ],
+          "trim_offset": [
+            510,
+            527
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_06/frame_09.png",
+          "size": [
+            40,
+            60
+          ],
+          "anchor": [
+            20,
+            60
+          ],
+          "source_bbox": [
+            576,
+            494,
+            656,
+            574
+          ],
+          "trim_offset": [
+            606,
+            514
+          ]
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_07/frame_01.png",
+          "size": [
+            56,
+            59
+          ],
+          "anchor": [
+            28,
+            59
+          ],
+          "source_bbox": [
+            2,
+            576,
+            122,
+            680
+          ],
+          "trim_offset": [
+            4,
+            621
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_07/frame_02.png",
+          "size": [
+            32,
+            17
+          ],
+          "anchor": [
+            16,
+            17
+          ],
+          "source_bbox": [
+            21,
+            663,
+            53,
+            680
+          ],
+          "trim_offset": [
+            21,
+            663
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_07/frame_03.png",
+          "size": [
+            57,
+            58
+          ],
+          "anchor": [
+            28,
+            58
+          ],
+          "source_bbox": [
+            124,
+            576,
+            244,
+            680
+          ],
+          "trim_offset": [
+            125,
+            622
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_07/frame_04.png",
+          "size": [
+            33,
+            16
+          ],
+          "anchor": [
+            16,
+            16
+          ],
+          "source_bbox": [
+            142,
+            664,
+            175,
+            680
+          ],
+          "trim_offset": [
+            142,
+            664
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_07/frame_05.png",
+          "size": [
+            59,
+            69
+          ],
+          "anchor": [
+            29,
+            69
+          ],
+          "source_bbox": [
+            246,
+            576,
+            366,
+            680
+          ],
+          "trim_offset": [
+            250,
+            611
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_07/frame_06.png",
+          "size": [
+            90,
+            90
+          ],
+          "anchor": [
+            45,
+            90
+          ],
+          "source_bbox": [
+            368,
+            576,
+            488,
+            680
+          ],
+          "trim_offset": [
+            392,
+            590
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_07/frame_07.png",
+          "size": [
+            39,
+            50
+          ],
+          "anchor": [
+            19,
+            50
+          ],
+          "source_bbox": [
+            428,
+            608,
+            467,
+            658
+          ],
+          "trim_offset": [
+            428,
+            608
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_07/frame_08.png",
+          "size": [
+            87,
+            88
+          ],
+          "anchor": [
+            43,
+            88
+          ],
+          "source_bbox": [
+            490,
+            576,
+            610,
+            680
+          ],
+          "trim_offset": [
+            515,
+            592
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_07/frame_09.png",
+          "size": [
+            88,
+            71
+          ],
+          "anchor": [
+            44,
+            71
+          ],
+          "source_bbox": [
+            612,
+            576,
+            732,
+            680
+          ],
+          "trim_offset": [
+            637,
+            609
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_07/frame_10.png",
+          "size": [
+            56,
+            73
+          ],
+          "anchor": [
+            28,
+            73
+          ],
+          "source_bbox": [
+            734,
+            576,
+            854,
+            680
+          ],
+          "trim_offset": [
+            742,
+            607
+          ]
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_08/frame_01.png",
+          "size": [
+            46,
+            70
+          ],
+          "anchor": [
+            23,
+            70
+          ],
+          "source_bbox": [
+            2,
+            682,
+            122,
+            762
+          ],
+          "trim_offset": [
+            16,
+            691
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_08/frame_02.png",
+          "size": [
+            64,
+            69
+          ],
+          "anchor": [
+            32,
+            69
+          ],
+          "source_bbox": [
+            124,
+            682,
+            244,
+            762
+          ],
+          "trim_offset": [
+            139,
+            692
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_08/frame_03.png",
+          "size": [
+            55,
+            70
+          ],
+          "anchor": [
+            27,
+            70
+          ],
+          "source_bbox": [
+            246,
+            682,
+            366,
+            762
+          ],
+          "trim_offset": [
+            267,
+            691
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_08/frame_04.png",
+          "size": [
+            83,
+            67
+          ],
+          "anchor": [
+            41,
+            67
+          ],
+          "source_bbox": [
+            368,
+            682,
+            488,
+            762
+          ],
+          "trim_offset": [
+            389,
+            694
+          ]
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_09/frame_01.png",
+          "size": [
+            50,
+            67
+          ],
+          "anchor": [
+            25,
+            67
+          ],
+          "source_bbox": [
+            2,
+            764,
+            122,
+            844
+          ],
+          "trim_offset": [
+            14,
+            774
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_09/frame_02.png",
+          "size": [
+            48,
+            69
+          ],
+          "anchor": [
+            24,
+            69
+          ],
+          "source_bbox": [
+            124,
+            764,
+            244,
+            844
+          ],
+          "trim_offset": [
+            136,
+            772
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_09/frame_03.png",
+          "size": [
+            78,
+            62
+          ],
+          "anchor": [
+            39,
+            62
+          ],
+          "source_bbox": [
+            246,
+            764,
+            366,
+            844
+          ],
+          "trim_offset": [
+            259,
+            780
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_09/frame_04.png",
+          "size": [
+            75,
+            62
+          ],
+          "anchor": [
+            37,
+            62
+          ],
+          "source_bbox": [
+            368,
+            764,
+            488,
+            844
+          ],
+          "trim_offset": [
+            380,
+            780
+          ]
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_10/frame_01.png",
+          "size": [
+            60,
+            60
+          ],
+          "anchor": [
+            30,
+            60
+          ],
+          "source_bbox": [
+            2,
+            846,
+            122,
+            926
+          ],
+          "trim_offset": [
+            5,
+            856
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_10/frame_02.png",
+          "size": [
+            89,
+            67
+          ],
+          "anchor": [
+            44,
+            67
+          ],
+          "source_bbox": [
+            124,
+            846,
+            244,
+            926
+          ],
+          "trim_offset": [
+            136,
+            856
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_10/frame_03.png",
+          "size": [
+            86,
+            67
+          ],
+          "anchor": [
+            43,
+            67
+          ],
+          "source_bbox": [
+            246,
+            846,
+            366,
+            926
+          ],
+          "trim_offset": [
+            257,
+            856
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_10/frame_04.png",
+          "size": [
+            54,
+            69
+          ],
+          "anchor": [
+            27,
+            69
+          ],
+          "source_bbox": [
+            368,
+            846,
+            488,
+            926
+          ],
+          "trim_offset": [
+            387,
+            850
+          ]
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_11/frame_01.png",
+          "size": [
+            83,
+            61
+          ],
+          "anchor": [
+            41,
+            61
+          ],
+          "source_bbox": [
+            2,
+            928,
+            122,
+            1008
+          ],
+          "trim_offset": [
+            23,
+            937
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_11/frame_02.png",
+          "size": [
+            81,
+            61
+          ],
+          "anchor": [
+            40,
+            61
+          ],
+          "source_bbox": [
+            124,
+            928,
+            244,
+            1008
+          ],
+          "trim_offset": [
+            145,
+            937
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_11/frame_03.png",
+          "size": [
+            99,
+            71
+          ],
+          "anchor": [
+            49,
+            71
+          ],
+          "source_bbox": [
+            246,
+            928,
+            366,
+            1008
+          ],
+          "trim_offset": [
+            267,
+            933
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_11/frame_04.png",
+          "size": [
+            23,
+            28
+          ],
+          "anchor": [
+            11,
+            28
+          ],
+          "source_bbox": [
+            311,
+            947,
+            334,
+            975
+          ],
+          "trim_offset": [
+            311,
+            947
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_11/frame_05.png",
+          "size": [
+            97,
+            71
+          ],
+          "anchor": [
+            48,
+            71
+          ],
+          "source_bbox": [
+            368,
+            928,
+            488,
+            1008
+          ],
+          "trim_offset": [
+            391,
+            933
+          ]
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_12/frame_01.png",
+          "size": [
+            71,
+            71
+          ],
+          "anchor": [
+            35,
+            71
+          ],
+          "source_bbox": [
+            2,
+            1010,
+            122,
+            1090
+          ],
+          "trim_offset": [
+            8,
+            1015
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_12/frame_02.png",
+          "size": [
+            97,
+            67
+          ],
+          "anchor": [
+            48,
+            67
+          ],
+          "source_bbox": [
+            124,
+            1010,
+            244,
+            1090
+          ],
+          "trim_offset": [
+            147,
+            1020
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_12/frame_03.png",
+          "size": [
+            34,
+            17
+          ],
+          "anchor": [
+            17,
+            17
+          ],
+          "source_bbox": [
+            208,
+            1037,
+            242,
+            1054
+          ],
+          "trim_offset": [
+            208,
+            1037
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_12/frame_04.png",
+          "size": [
+            92,
+            67
+          ],
+          "anchor": [
+            46,
+            67
+          ],
+          "source_bbox": [
+            246,
+            1010,
+            366,
+            1090
+          ],
+          "trim_offset": [
+            274,
+            1020
+          ]
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_13/frame_01.png",
+          "size": [
+            47,
+            70
+          ],
+          "anchor": [
+            23,
+            70
+          ],
+          "source_bbox": [
+            2,
+            1092,
+            122,
+            1172
+          ],
+          "trim_offset": [
+            36,
+            1101
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_13/frame_02.png",
+          "size": [
+            81,
+            62
+          ],
+          "anchor": [
+            40,
+            62
+          ],
+          "source_bbox": [
+            124,
+            1092,
+            244,
+            1172
+          ],
+          "trim_offset": [
+            158,
+            1109
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_13/frame_03.png",
+          "size": [
+            81,
+            62
+          ],
+          "anchor": [
+            40,
+            62
+          ],
+          "source_bbox": [
+            246,
+            1092,
+            366,
+            1172
+          ],
+          "trim_offset": [
+            280,
+            1109
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_13/frame_04.png",
+          "size": [
+            72,
+            59
+          ],
+          "anchor": [
+            36,
+            59
+          ],
+          "source_bbox": [
+            368,
+            1092,
+            488,
+            1172
+          ],
+          "trim_offset": [
+            393,
+            1101
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_13/frame_05.png",
+          "size": [
+            94,
+            55
+          ],
+          "anchor": [
+            47,
+            55
+          ],
+          "source_bbox": [
+            490,
+            1092,
+            610,
+            1172
+          ],
+          "trim_offset": [
+            503,
+            1104
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_13/frame_06.png",
+          "size": [
+            43,
+            73
+          ],
+          "anchor": [
+            21,
+            73
+          ],
+          "source_bbox": [
+            612,
+            1092,
+            732,
+            1172
+          ],
+          "trim_offset": [
+            649,
+            1098
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_13/frame_07.png",
+          "size": [
+            46,
+            73
+          ],
+          "anchor": [
+            23,
+            73
+          ],
+          "source_bbox": [
+            734,
+            1092,
+            854,
+            1172
+          ],
+          "trim_offset": [
+            771,
+            1098
+          ]
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_14/frame_01.png",
+          "size": [
+            48,
+            66
+          ],
+          "anchor": [
+            24,
+            66
+          ],
+          "source_bbox": [
+            2,
+            1174,
+            122,
+            1254
+          ],
+          "trim_offset": [
+            12,
+            1187
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_14/frame_02.png",
+          "size": [
+            75,
+            62
+          ],
+          "anchor": [
+            37,
+            62
+          ],
+          "source_bbox": [
+            124,
+            1174,
+            244,
+            1254
+          ],
+          "trim_offset": [
+            129,
+            1190
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_14/frame_03.png",
+          "size": [
+            62,
+            61
+          ],
+          "anchor": [
+            31,
+            61
+          ],
+          "source_bbox": [
+            246,
+            1174,
+            366,
+            1254
+          ],
+          "trim_offset": [
+            257,
+            1191
+          ]
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_15/frame_01.png",
+          "size": [
+            50,
+            67
+          ],
+          "anchor": [
+            25,
+            67
+          ],
+          "source_bbox": [
+            2,
+            1256,
+            122,
+            1336
+          ],
+          "trim_offset": [
+            32,
+            1268
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_15/frame_02.png",
+          "size": [
+            48,
+            72
+          ],
+          "anchor": [
+            24,
+            72
+          ],
+          "source_bbox": [
+            124,
+            1256,
+            244,
+            1336
+          ],
+          "trim_offset": [
+            161,
+            1263
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_15/frame_03.png",
+          "size": [
+            51,
+            75
+          ],
+          "anchor": [
+            25,
+            75
+          ],
+          "source_bbox": [
+            246,
+            1256,
+            366,
+            1336
+          ],
+          "trim_offset": [
+            282,
+            1260
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_15/frame_04.png",
+          "size": [
+            65,
+            67
+          ],
+          "anchor": [
+            32,
+            67
+          ],
+          "source_bbox": [
+            368,
+            1256,
+            488,
+            1336
+          ],
+          "trim_offset": [
+            397,
+            1268
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_15/frame_05.png",
+          "size": [
+            55,
+            64
+          ],
+          "anchor": [
+            27,
+            64
+          ],
+          "source_bbox": [
+            490,
+            1256,
+            610,
+            1336
+          ],
+          "trim_offset": [
+            533,
+            1271
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_15/frame_06.png",
+          "size": [
+            55,
+            65
+          ],
+          "anchor": [
+            27,
+            65
+          ],
+          "source_bbox": [
+            612,
+            1256,
+            732,
+            1336
+          ],
+          "trim_offset": [
+            657,
+            1270
+          ]
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_16/frame_01.png",
+          "size": [
+            77,
+            45
+          ],
+          "anchor": [
+            38,
+            45
+          ],
+          "source_bbox": [
+            2,
+            1338,
+            122,
+            1418
+          ],
+          "trim_offset": [
+            10,
+            1372
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_16/frame_02.png",
+          "size": [
+            49,
+            59
+          ],
+          "anchor": [
+            24,
+            59
+          ],
+          "source_bbox": [
+            124,
+            1338,
+            244,
+            1418
+          ],
+          "trim_offset": [
+            157,
+            1358
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_16/frame_03.png",
+          "size": [
+            49,
+            76
+          ],
+          "anchor": [
+            24,
+            76
+          ],
+          "source_bbox": [
+            246,
+            1338,
+            366,
+            1418
+          ],
+          "trim_offset": [
+            285,
+            1341
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_16/frame_04.png",
+          "size": [
+            51,
+            72
+          ],
+          "anchor": [
+            25,
+            72
+          ],
+          "source_bbox": [
+            368,
+            1338,
+            488,
+            1418
+          ],
+          "trim_offset": [
+            413,
+            1345
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_16/frame_05.png",
+          "size": [
+            43,
+            69
+          ],
+          "anchor": [
+            21,
+            69
+          ],
+          "source_bbox": [
+            490,
+            1338,
+            610,
+            1418
+          ],
+          "trim_offset": [
+            536,
+            1348
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_16/frame_06.png",
+          "size": [
+            43,
+            44
+          ],
+          "anchor": [
+            21,
+            44
+          ],
+          "source_bbox": [
+            612,
+            1338,
+            732,
+            1418
+          ],
+          "trim_offset": [
+            660,
+            1373
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_16/frame_07.png",
+          "size": [
+            50,
+            67
+          ],
+          "anchor": [
+            25,
+            67
+          ],
+          "source_bbox": [
+            734,
+            1338,
+            854,
+            1418
+          ],
+          "trim_offset": [
+            749,
+            1350
+          ]
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_17/frame_01.png",
+          "size": [
+            48,
+            50
+          ],
+          "anchor": [
+            24,
+            50
+          ],
+          "source_bbox": [
+            2,
+            1420,
+            122,
+            1500
+          ],
+          "trim_offset": [
+            12,
+            1450
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_17/frame_02.png",
+          "size": [
+            50,
+            66
+          ],
+          "anchor": [
+            25,
+            66
+          ],
+          "source_bbox": [
+            124,
+            1420,
+            244,
+            1500
+          ],
+          "trim_offset": [
+            133,
+            1434
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_17/frame_03.png",
+          "size": [
+            51,
+            66
+          ],
+          "anchor": [
+            25,
+            66
+          ],
+          "source_bbox": [
+            246,
+            1420,
+            366,
+            1500
+          ],
+          "trim_offset": [
+            254,
+            1434
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_17/frame_04.png",
+          "size": [
+            87,
+            49
+          ],
+          "anchor": [
+            43,
+            49
+          ],
+          "source_bbox": [
+            368,
+            1420,
+            488,
+            1500
+          ],
+          "trim_offset": [
+            394,
+            1447
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_17/frame_05.png",
+          "size": [
+            72,
+            59
+          ],
+          "anchor": [
+            36,
+            59
+          ],
+          "source_bbox": [
+            490,
+            1420,
+            610,
+            1500
+          ],
+          "trim_offset": [
+            515,
+            1430
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_17/frame_06.png",
+          "size": [
+            94,
+            55
+          ],
+          "anchor": [
+            47,
+            55
+          ],
+          "source_bbox": [
+            612,
+            1420,
+            732,
+            1500
+          ],
+          "trim_offset": [
+            625,
+            1433
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_17/frame_07.png",
+          "size": [
+            54,
+            74
+          ],
+          "anchor": [
+            27,
+            74
+          ],
+          "source_bbox": [
+            734,
+            1420,
+            854,
+            1500
+          ],
+          "trim_offset": [
+            771,
+            1426
+          ]
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_18/frame_01.png",
+          "size": [
+            52,
+            74
+          ],
+          "anchor": [
+            26,
+            74
+          ],
+          "source_bbox": [
+            2,
+            1502,
+            122,
+            1582
+          ],
+          "trim_offset": [
+            39,
+            1508
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_18/frame_02.png",
+          "size": [
+            46,
+            74
+          ],
+          "anchor": [
+            23,
+            74
+          ],
+          "source_bbox": [
+            124,
+            1502,
+            244,
+            1582
+          ],
+          "trim_offset": [
+            161,
+            1508
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_18/frame_03.png",
+          "size": [
+            42,
+            72
+          ],
+          "anchor": [
+            21,
+            72
+          ],
+          "source_bbox": [
+            246,
+            1502,
+            366,
+            1582
+          ],
+          "trim_offset": [
+            276,
+            1509
+          ]
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_19/frame_01.png",
+          "size": [
+            36,
+            75
+          ],
+          "anchor": [
+            18,
+            75
+          ],
+          "source_bbox": [
+            2,
+            1584,
+            82,
+            1664
+          ],
+          "trim_offset": [
+            13,
+            1589
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_19/frame_02.png",
+          "size": [
+            36,
+            75
+          ],
+          "anchor": [
+            18,
+            75
+          ],
+          "source_bbox": [
+            84,
+            1584,
+            164,
+            1664
+          ],
+          "trim_offset": [
+            95,
+            1589
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_19/frame_03.png",
+          "size": [
+            39,
+            74
+          ],
+          "anchor": [
+            19,
+            74
+          ],
+          "source_bbox": [
+            166,
+            1584,
+            246,
+            1664
+          ],
+          "trim_offset": [
+            173,
+            1590
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_19/frame_04.png",
+          "size": [
+            40,
+            75
+          ],
+          "anchor": [
+            20,
+            75
+          ],
+          "source_bbox": [
+            248,
+            1584,
+            328,
+            1664
+          ],
+          "trim_offset": [
+            254,
+            1589
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_19/frame_05.png",
+          "size": [
+            55,
+            60
+          ],
+          "anchor": [
+            27,
+            60
+          ],
+          "source_bbox": [
+            330,
+            1584,
+            410,
+            1664
+          ],
+          "trim_offset": [
+            349,
+            1604
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_19/frame_06.png",
+          "size": [
+            56,
+            59
+          ],
+          "anchor": [
+            28,
+            59
+          ],
+          "source_bbox": [
+            412,
+            1584,
+            492,
+            1664
+          ],
+          "trim_offset": [
+            430,
+            1605
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_19/frame_07.png",
+          "size": [
+            46,
+            70
+          ],
+          "anchor": [
+            23,
+            70
+          ],
+          "source_bbox": [
+            494,
+            1584,
+            574,
+            1664
+          ],
+          "trim_offset": [
+            503,
+            1594
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_19/frame_08.png",
+          "size": [
+            47,
+            69
+          ],
+          "anchor": [
+            23,
+            69
+          ],
+          "source_bbox": [
+            576,
+            1584,
+            656,
+            1664
+          ],
+          "trim_offset": [
+            584,
+            1595
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_19/frame_09.png",
+          "size": [
+            45,
+            68
+          ],
+          "anchor": [
+            22,
+            68
+          ],
+          "source_bbox": [
+            658,
+            1584,
+            738,
+            1664
+          ],
+          "trim_offset": [
+            674,
+            1596
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_19/frame_10.png",
+          "size": [
+            38,
+            79
+          ],
+          "anchor": [
+            19,
+            79
+          ],
+          "source_bbox": [
+            740,
+            1584,
+            820,
+            1664
+          ],
+          "trim_offset": [
+            755,
+            1585
+          ]
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_01.png",
+          "size": [
+            39,
+            69
+          ],
+          "anchor": [
+            19,
+            69
+          ],
+          "source_bbox": [
+            2,
+            1666,
+            82,
+            1746
+          ],
+          "trim_offset": [
+            11,
+            1677
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_02.png",
+          "size": [
+            36,
+            73
+          ],
+          "anchor": [
+            18,
+            73
+          ],
+          "source_bbox": [
+            84,
+            1666,
+            164,
+            1746
+          ],
+          "trim_offset": [
+            94,
+            1673
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_03.png",
+          "size": [
+            58,
+            74
+          ],
+          "anchor": [
+            29,
+            74
+          ],
+          "source_bbox": [
+            166,
+            1666,
+            246,
+            1746
+          ],
+          "trim_offset": [
+            179,
+            1670
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_04.png",
+          "size": [
+            57,
+            74
+          ],
+          "anchor": [
+            28,
+            74
+          ],
+          "source_bbox": [
+            248,
+            1666,
+            328,
+            1746
+          ],
+          "trim_offset": [
+            261,
+            1670
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_05.png",
+          "size": [
+            48,
+            60
+          ],
+          "anchor": [
+            24,
+            60
+          ],
+          "source_bbox": [
+            330,
+            1666,
+            410,
+            1746
+          ],
+          "trim_offset": [
+            339,
+            1686
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_06.png",
+          "size": [
+            31,
+            18
+          ],
+          "anchor": [
+            15,
+            18
+          ],
+          "source_bbox": [
+            349,
+            1728,
+            380,
+            1746
+          ],
+          "trim_offset": [
+            349,
+            1728
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_07.png",
+          "size": [
+            48,
+            59
+          ],
+          "anchor": [
+            24,
+            59
+          ],
+          "source_bbox": [
+            412,
+            1666,
+            492,
+            1746
+          ],
+          "trim_offset": [
+            421,
+            1687
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_08.png",
+          "size": [
+            32,
+            17
+          ],
+          "anchor": [
+            16,
+            17
+          ],
+          "source_bbox": [
+            430,
+            1729,
+            462,
+            1746
+          ],
+          "trim_offset": [
+            430,
+            1729
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_09.png",
+          "size": [
+            61,
+            72
+          ],
+          "anchor": [
+            30,
+            72
+          ],
+          "source_bbox": [
+            494,
+            1666,
+            574,
+            1746
+          ],
+          "trim_offset": [
+            507,
+            1674
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_10.png",
+          "size": [
+            25,
+            19
+          ],
+          "anchor": [
+            12,
+            19
+          ],
+          "source_bbox": [
+            518,
+            1727,
+            543,
+            1746
+          ],
+          "trim_offset": [
+            518,
+            1727
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_11.png",
+          "size": [
+            62,
+            75
+          ],
+          "anchor": [
+            31,
+            75
+          ],
+          "source_bbox": [
+            576,
+            1666,
+            656,
+            1746
+          ],
+          "trim_offset": [
+            588,
+            1671
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_12.png",
+          "size": [
+            25,
+            19
+          ],
+          "anchor": [
+            12,
+            19
+          ],
+          "source_bbox": [
+            599,
+            1727,
+            624,
+            1746
+          ],
+          "trim_offset": [
+            599,
+            1727
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_20/frame_13.png",
+          "size": [
+            53,
+            71
+          ],
+          "anchor": [
+            26,
+            71
+          ],
+          "source_bbox": [
+            658,
+            1666,
+            738,
+            1746
+          ],
+          "trim_offset": [
+            671,
+            1675
+          ]
+        }
+      ]
+    },
+    {
+      "row": 21,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_21/frame_01.png",
+          "size": [
+            40,
+            52
+          ],
+          "anchor": [
+            20,
+            52
+          ],
+          "source_bbox": [
+            2,
+            1748,
+            122,
+            1852
+          ],
+          "trim_offset": [
+            32,
+            1799
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_21/frame_02.png",
+          "size": [
+            41,
+            52
+          ],
+          "anchor": [
+            20,
+            52
+          ],
+          "source_bbox": [
+            124,
+            1748,
+            244,
+            1852
+          ],
+          "trim_offset": [
+            158,
+            1800
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_21/frame_03.png",
+          "size": [
+            56,
+            55
+          ],
+          "anchor": [
+            28,
+            55
+          ],
+          "source_bbox": [
+            246,
+            1748,
+            366,
+            1852
+          ],
+          "trim_offset": [
+            275,
+            1797
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_21/frame_04.png",
+          "size": [
+            105,
+            73
+          ],
+          "anchor": [
+            52,
+            73
+          ],
+          "source_bbox": [
+            368,
+            1748,
+            488,
+            1852
+          ],
+          "trim_offset": [
+            369,
+            1779
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_21/frame_05.png",
+          "size": [
+            65,
+            72
+          ],
+          "anchor": [
+            32,
+            72
+          ],
+          "source_bbox": [
+            490,
+            1748,
+            610,
+            1852
+          ],
+          "trim_offset": [
+            504,
+            1771
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_21/frame_06.png",
+          "size": [
+            61,
+            72
+          ],
+          "anchor": [
+            30,
+            72
+          ],
+          "source_bbox": [
+            612,
+            1748,
+            732,
+            1852
+          ],
+          "trim_offset": [
+            631,
+            1768
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_21/frame_07.png",
+          "size": [
+            73,
+            71
+          ],
+          "anchor": [
+            36,
+            71
+          ],
+          "source_bbox": [
+            734,
+            1748,
+            854,
+            1852
+          ],
+          "trim_offset": [
+            757,
+            1772
+          ]
+        }
+      ]
+    },
+    {
+      "row": 22,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_22/frame_01.png",
+          "size": [
+            47,
+            68
+          ],
+          "anchor": [
+            23,
+            68
+          ],
+          "source_bbox": [
+            2,
+            1854,
+            122,
+            1958
+          ],
+          "trim_offset": [
+            36,
+            1879
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_22/frame_02.png",
+          "size": [
+            84,
+            91
+          ],
+          "anchor": [
+            42,
+            91
+          ],
+          "source_bbox": [
+            124,
+            1854,
+            244,
+            1958
+          ],
+          "trim_offset": [
+            132,
+            1861
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_22/frame_03.png",
+          "size": [
+            73,
+            91
+          ],
+          "anchor": [
+            36,
+            91
+          ],
+          "source_bbox": [
+            246,
+            1854,
+            366,
+            1958
+          ],
+          "trim_offset": [
+            276,
+            1861
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_22/frame_04.png",
+          "size": [
+            68,
+            81
+          ],
+          "anchor": [
+            34,
+            81
+          ],
+          "source_bbox": [
+            368,
+            1854,
+            488,
+            1958
+          ],
+          "trim_offset": [
+            396,
+            1862
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_22/frame_05.png",
+          "size": [
+            75,
+            82
+          ],
+          "anchor": [
+            37,
+            82
+          ],
+          "source_bbox": [
+            490,
+            1854,
+            610,
+            1958
+          ],
+          "trim_offset": [
+            521,
+            1861
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_22/frame_06.png",
+          "size": [
+            72,
+            71
+          ],
+          "anchor": [
+            36,
+            71
+          ],
+          "source_bbox": [
+            612,
+            1854,
+            732,
+            1958
+          ],
+          "trim_offset": [
+            635,
+            1878
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_22/frame_07.png",
+          "size": [
+            73,
+            90
+          ],
+          "anchor": [
+            36,
+            90
+          ],
+          "source_bbox": [
+            734,
+            1854,
+            854,
+            1958
+          ],
+          "trim_offset": [
+            764,
+            1861
+          ]
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_23/frame_01.png",
+          "size": [
+            74,
+            82
+          ],
+          "anchor": [
+            37,
+            82
+          ],
+          "source_bbox": [
+            2,
+            1960,
+            122,
+            2064
+          ],
+          "trim_offset": [
+            33,
+            1967
+          ]
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "frames": [
+        {
+          "path": "assets/sprites/sasuke/row_24/frame_01.png",
+          "size": [
+            41,
+            41
+          ],
+          "anchor": [
+            20,
+            41
+          ],
+          "source_bbox": [
+            2,
+            2066,
+            82,
+            2130
+          ],
+          "trim_offset": [
+            25,
+            2088
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_24/frame_02.png",
+          "size": [
+            45,
+            32
+          ],
+          "anchor": [
+            22,
+            32
+          ],
+          "source_bbox": [
+            84,
+            2066,
+            164,
+            2130
+          ],
+          "trim_offset": [
+            105,
+            2098
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_24/frame_03.png",
+          "size": [
+            44,
+            59
+          ],
+          "anchor": [
+            22,
+            59
+          ],
+          "source_bbox": [
+            166,
+            2066,
+            246,
+            2130
+          ],
+          "trim_offset": [
+            190,
+            2067
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_24/frame_04.png",
+          "size": [
+            44,
+            45
+          ],
+          "anchor": [
+            22,
+            45
+          ],
+          "source_bbox": [
+            248,
+            2066,
+            328,
+            2130
+          ],
+          "trim_offset": [
+            270,
+            2082
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_24/frame_05.png",
+          "size": [
+            40,
+            47
+          ],
+          "anchor": [
+            20,
+            47
+          ],
+          "source_bbox": [
+            330,
+            2066,
+            410,
+            2130
+          ],
+          "trim_offset": [
+            345,
+            2083
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_24/frame_06.png",
+          "size": [
+            59,
+            29
+          ],
+          "anchor": [
+            29,
+            29
+          ],
+          "source_bbox": [
+            412,
+            2066,
+            492,
+            2130
+          ],
+          "trim_offset": [
+            415,
+            2099
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_24/frame_07.png",
+          "size": [
+            59,
+            30
+          ],
+          "anchor": [
+            29,
+            30
+          ],
+          "source_bbox": [
+            494,
+            2066,
+            574,
+            2130
+          ],
+          "trim_offset": [
+            499,
+            2098
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_24/frame_08.png",
+          "size": [
+            62,
+            23
+          ],
+          "anchor": [
+            31,
+            23
+          ],
+          "source_bbox": [
+            576,
+            2066,
+            656,
+            2130
+          ],
+          "trim_offset": [
+            577,
+            2106
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_24/frame_09.png",
+          "size": [
+            64,
+            30
+          ],
+          "anchor": [
+            32,
+            30
+          ],
+          "source_bbox": [
+            658,
+            2066,
+            738,
+            2130
+          ],
+          "trim_offset": [
+            658,
+            2099
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_24/frame_10.png",
+          "size": [
+            58,
+            27
+          ],
+          "anchor": [
+            29,
+            27
+          ],
+          "source_bbox": [
+            740,
+            2066,
+            820,
+            2130
+          ],
+          "trim_offset": [
+            741,
+            2102
+          ]
+        },
+        {
+          "path": "assets/sprites/sasuke/row_24/frame_11.png",
+          "size": [
+            49,
+            33
+          ],
+          "anchor": [
+            24,
+            33
+          ],
+          "source_bbox": [
+            822,
+            2066,
+            902,
+            2130
+          ],
+          "trim_offset": [
+            841,
+            2096
+          ]
+        }
+      ]
+    }
+  ]
+}
